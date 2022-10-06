@@ -1,2 +1,2 @@
 #!/bin/bash
-input: ls -map*
+ls -amp | sort -d
